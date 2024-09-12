@@ -4,16 +4,47 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c06bb1d3-4d37-436d-9281-84845978590e" name="Changes" comment="" />
+    <list default="true" id="c06bb1d3-4d37-436d-9281-84845978590e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/project/fpages/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/fpages/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/static/assets/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/static/css/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/static/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/templates/flatpages/contact_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/templates/flatpages/contact_page_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/templates/flatpages/default.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/templates/flatpages/test_2_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/templates/flatpages/test_3_page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_venv/Lib/site-packages/django/contrib/flatpages/migrations/0001_initial.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_venv/Lib/site-packages/django/contrib/flatpages/migrations/0001_initial.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/my_venv/Lib/site-packages/django/contrib/flatpages/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/my_venv/Lib/site-packages/django/contrib/flatpages/models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/project/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/project/project/urls.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2lytSC8rBN4g8sR8ysQZadeLdqW" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -21,9 +52,17 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/coda-/pyton3/projects/Django_project/project/static"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\coda-\pyton3\projects\Django_project\project\static" />
+      <recent name="C:\Users\coda-\pyton3\projects\Django_project\project\templates\flatpages" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
